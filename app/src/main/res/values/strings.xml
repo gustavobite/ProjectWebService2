@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Projeto Web Services</string>
+
+    <string name="dates">Datas</string>
+    <string name="start_date">Data inicial: %s</string>
+    <string name="end_date">Data final: %s</string>
+    <string name="difference_in_days">Dias entre as datas: <b>%d</b></string>
+    <string name="difference_in_weeks">Semanas entre as datas: <b>%d</b></string>
+    <string name="difference_in_months">Meses entre as datas: <b>%d</b></string>
+    <string name="label_select_start_date">Selecione a data inicial</string>
+    <string name="label_select_end_date">Selecione a data final</string>
+    <string name="mimic">Mimimc</string>
+    <string name="enter_text_to_convert">Digite o texto que será convertido</string>
+    <string name="numbers">Numeros</string>
+    <string name="enter_numbers">Digite os números separados por \';\'</string>
+    <string name="increasing_order">Ordem crescente</string>
+    <string name="decreasing_order">Ordem decrescente</string>
+    <string name="pair_list">Números pares</string>
+    <string name="msg_request_error">Erro ao processar request</string>
+</resources>
